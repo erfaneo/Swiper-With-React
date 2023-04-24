@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Swiper-With-React/static/css/main.4b3c3494.css",
+    "main.js": "/Swiper-With-React/static/js/main.ccb69043.js",
+    "index.html": "/Swiper-With-React/index.html",
+    "main.4b3c3494.css.map": "/Swiper-With-React/static/css/main.4b3c3494.css.map",
+    "main.ccb69043.js.map": "/Swiper-With-React/static/js/main.ccb69043.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b3c3494.css",
+    "static/js/main.ccb69043.js"
+  ]
+}
