@@ -7,7 +7,6 @@ import "./MySwiper.css"
 
 const MySwiper = (props) =>{
     const Imgs = props.imgs.map((img) => {
-        console.log(img)
         return <SwiperSlide><img key={img.id} alt= {img.alt} src={img.src.landscape} /></SwiperSlide>
     })
 
